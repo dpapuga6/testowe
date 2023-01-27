@@ -6,8 +6,6 @@ moje pierwsze repo
 
 #### metodyka
 
-
-
-
+## RO TO
 
 dodac plik quarto
